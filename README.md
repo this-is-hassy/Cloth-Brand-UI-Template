@@ -4,9 +4,6 @@ Welcome to the Chungiyoo's brand UI project, a winter clothing brand template cr
 
 ## Features
 
-- **Responsive Design:**
-  - Ensuring an optimal user experience across various devices for showcasing winter apparel.
-
 - **Next.js:**
   - Leveraging Next.js for efficient server-side rendering and a seamless development workflow.
 
