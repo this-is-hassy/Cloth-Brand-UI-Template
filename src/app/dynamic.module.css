@@ -1,0 +1,10 @@
+.outlined {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgba(255, 255, 255, 0.829);
+    letter-spacing: 7px;
+}
+
+.gapping{
+    letter-spacing: 9px;
+}
+
